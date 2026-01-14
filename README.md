@@ -16,5 +16,16 @@ Now I´m deepening my knowledge of Javascript and starting to explore React. Try
 
 # Contact
 
-✉️ Email: facundogo.garavagliaolivera@gmail.com
-🐙 GitHub: https://github.com/FacundoGaOl
+Email: facundogo.garavagliaolivera@gmail.com
+
+GitHub: https://github.com/FacundoGaOl
+
+# GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FacundoGaOl&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FacundoGaOl&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FacundoGaOl&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FacundoGaOl&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FacundoGaOl&theme=default&utcOffset=8)
